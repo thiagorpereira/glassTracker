@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CopoDagua</string>
+    <string name="small">200ml</string>
+    <string name="string_tips">Toque no botão abaixo de acordo com a quantidade da ml consumida</string>
+    <string name="medium">400ML</string>
+    <string name="larger">700ML</string>
+    <string name="today">Hoje</string>
+</resources>
